@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -33,4 +34,12 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0183-customers-who-never-order) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
