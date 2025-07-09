@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -38,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
