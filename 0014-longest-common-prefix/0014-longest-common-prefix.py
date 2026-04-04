@@ -1,13 +1,13 @@
-class Solution:
-    def longestCommonPrefix(self, strs: List[str]) -> str:
-        new = strs[0]
-        for string in strs[1:]:
-            i = 0 
-            while i < len(new) and i < len(string) and new[i]== string[i]:
-                i += 1
-            new = new[:i]
-            if not new:
-                return ""
-        return new
+class Solution(object):
+    def longestCommonPrefix(self, strs):
+        min_len =  min(len(s) for s in strs)
 
+        for i in range(min_len):
+            char = strs[0][i]
 
+            for s in strs:
+                if s[i] != char:
+                    return strs[0][:i]
+                    
+        return strs[0][:min_len]
+        
