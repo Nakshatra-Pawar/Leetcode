@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
