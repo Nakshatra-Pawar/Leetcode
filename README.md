@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0069-sqrtx) |
+| [0976-largest-perimeter-triangle](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0322-coin-change) |
+| [0976-largest-perimeter-triangle](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2058-concatenation-of-array](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0976-largest-perimeter-triangle](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Database
 |  |
 | ------- |
@@ -100,4 +103,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
