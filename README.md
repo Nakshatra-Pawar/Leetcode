@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0322-coin-change) |
 | [2058-concatenation-of-array](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -91,4 +92,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0257-binary-tree-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
