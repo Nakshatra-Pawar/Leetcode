@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0322-coin-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
@@ -107,4 +110,12 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nakshatra-Pawar/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
